@@ -8,6 +8,13 @@ For the past year I've been building with AI tools: Claude Code, Lovable, n8n, S
 
 ---
 
+## What's Here
+
+**[strategic-council](https://github.com/dandanmarcovici/strategic-council)**
+Claude Code skill for pressure-testing consequential decisions: five independent advisers, anonymous peer review, independent Chairman synthesis. Built to fight AI sycophancy, not produce five agreeable opinions dressed up as a council.
+
+---
+
 ## Projects
 
 **OpenClaw — Personal AI Agent**
