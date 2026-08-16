@@ -16,6 +16,9 @@ Claude Code skill for pressure-testing consequential decisions: five independent
 **[pm-second-brain](https://github.com/dandanmarcovici/pm-second-brain)**
 A second-brain context system for PMs using Claude Code daily: folder structure, file conventions, and a CLAUDE.md pattern that feed the model the right context at the right moment.
 
+**[claude-skills-for-pms](https://github.com/dandanmarcovici/claude-skills-for-pms)**
+Templates, frameworks, and skills that plug into pm-second-brain. None shipped as a first draft: each one is the version left after enough real decisions and meetings exposed a gap.
+
 ---
 
 ## Projects
