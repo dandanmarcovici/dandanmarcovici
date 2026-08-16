@@ -1,6 +1,6 @@
 # Daniel Marcovici
 
-Product Manager, mechanical engineer before that. Fourteen years in industrial robotic software — building distribution in Asia, integrating it at customer sites, and eventually deciding the product direction.
+Product Manager, mechanical engineer before that. Fourteen years in industrial robotic software: building distribution in Asia, integrating it at customer sites, and eventually deciding the product direction.
 
 I landed in product by staying close to real problems long enough that it became the obvious next step. Eight years at Hypertherm since, as Senior Product Owner for Robotmaster and now as PM for the robotic software portfolio.
 
@@ -12,6 +12,9 @@ For the past year I've been building with AI tools: Claude Code, Lovable, n8n, S
 
 **[strategic-council](https://github.com/dandanmarcovici/strategic-council)**
 Claude Code skill for pressure-testing consequential decisions: five independent advisers, anonymous peer review, independent Chairman synthesis. Built to fight AI sycophancy, not produce five agreeable opinions dressed up as a council.
+
+**[pm-second-brain](https://github.com/dandanmarcovici/pm-second-brain)**
+A second-brain context system for PMs using Claude Code daily: folder structure, file conventions, and a CLAUDE.md pattern that feed the model the right context at the right moment.
 
 ---
 
