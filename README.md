@@ -23,7 +23,7 @@ Templates, frameworks, and skills that plug into pm-second-brain. None shipped a
 
 ## Projects
 
-**OpenClaw — Personal AI Agent**
+**OpenClaw - Personal AI Agent**
 Built a Telegram-based autonomous agent on a reformatted old PC to understand autonomous agent architecture from the inside. Handles reminders, scheduling, and Google Calendar. Model routing splits tasks between Haiku and Sonnet by complexity. Found a hidden heartbeat burning $2/day in idle tokens and cut overall token usage by over 60%.
 
 **BikeTracker**
