@@ -19,6 +19,9 @@ A second-brain context system for PMs using Claude Code daily: folder structure,
 **[claude-skills-for-pms](https://github.com/dandanmarcovici/claude-skills-for-pms)**
 Templates, frameworks, and skills that plug into pm-second-brain. None shipped as a first draft: each one is the version left after enough real decisions and meetings exposed a gap.
 
+**[claude-code-workflow-for-pms](https://github.com/dandanmarcovici/claude-code-workflow-for-pms)**
+The end-to-end sequence I run in Claude Code to design, build, review, and ship real software as a non-developer PM: explore → plan → execute → review → ship. Extracted from a live production app, not written in the abstract. Dev-specific counterpart to claude-skills-for-pms.
+
 ---
 
 ## Projects
