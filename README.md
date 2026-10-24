@@ -26,14 +26,24 @@ The end-to-end sequence I run in Claude Code to design, build, review, and ship 
 
 ## Projects
 
-**OpenClaw - Personal AI Agent**
-Built a Telegram-based autonomous agent on a reformatted old PC to understand autonomous agent architecture from the inside. Handles reminders, scheduling, and Google Calendar. Model routing splits tasks between Haiku and Sonnet by complexity. Found a hidden heartbeat burning $2/day in idle tokens and cut overall token usage by over 60%.
+### Active
 
-**BikeTracker**
-Cyclists track bike maintenance through spreadsheets and guesswork. BikeTracker connects to Strava, calculates km since last service per bike, and sends email alerts when attention is needed. Built end-to-end with Lovable, n8n, Supabase, and Claude Code. Production-ready: PWA install, RLS, JWT, Edge Functions.
+**[Medical Practice Website + Claude Plugin](https://www.adrianereumatologia.com.br)** · Live · since Aug 2026
+Website for my wife's rheumatology practice in São Paulo, on Next.js 16 and Vercel. The site runs its own MCP server with Google sign-in, so she publishes articles from a conversation with Claude on her phone. Each publish is a commit through the GitHub API that triggers a deploy, which makes git the CMS. A Claude plugin adds three skills: publish an article, turn site content into Instagram carousels in her visual identity, and test the connection. Private repos.
+
+**WhatsApp Scheduling Agent** · Pilot · since Apr 2026
+AI agent that answers patients of my wife's medical practice on WhatsApp and books, reschedules or confirms appointments against Google Calendar. Built with n8n, the Meta WhatsApp Cloud API, Supabase and OpenAI, with an escalation classifier that alerts the doctor and eval harnesses that run before every prompt change. A Next.js inbox app lets the team follow conversations, pause the agent and reply by hand. In the final pilot phase with beta testers. Private repos.
 
 **RobotM-BR Website**
 B2B lead generation site for the authorized Robotmaster distributor in Brazil. Built for search intent from the ground up: semantic HTML, JSON-LD schema, sitemap, localized copy in Portuguese and Spanish. Stack: Next.js App Router, Tailwind, shadcn/ui, Sanity.io, deployed on Vercel.
+
+### Archived
+
+**OpenClaw - Personal AI Agent** · Apr 2026 to Oct 2026
+Built a Telegram-based autonomous agent on a reformatted old PC to understand autonomous agent architecture from the inside. It handled reminders, scheduling, and Google Calendar, with model routing between Haiku and Sonnet by complexity. Found a hidden heartbeat burning $2/day in idle tokens and cut overall token usage by over 60%. Retired in October 2026 when I moved to Grok Bot.
+
+**BikeTracker** · Jan 2026 to Aug 2026
+Cyclists track bike maintenance through spreadsheets and guesswork. BikeTracker connects to Strava, calculates km since last service per bike, and sends email alerts when attention is needed. Built end-to-end with Lovable, n8n, Supabase, and Claude Code. Shipped as a PWA with RLS, JWT and Edge Functions. Paused in August 2026.
 
 ---
 
@@ -48,4 +58,4 @@ B2B lead generation site for the authorized Robotmaster distributor in Brazil. B
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/daniel-marcovici)
+[danielmarcovici.com](https://danielmarcovici.com/en) · [LinkedIn](https://www.linkedin.com/in/daniel-marcovici)
