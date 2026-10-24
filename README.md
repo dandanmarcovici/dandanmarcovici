@@ -34,7 +34,7 @@ Website for my wife's rheumatology practice in São Paulo, on Next.js 16 and Ver
 **WhatsApp Scheduling Agent** · Pilot · since Apr 2026
 AI agent that answers patients of my wife's medical practice on WhatsApp and books, reschedules or confirms appointments against Google Calendar. Built with n8n, the Meta WhatsApp Cloud API, Supabase and OpenAI, with an escalation classifier that alerts the doctor and eval harnesses that run before every prompt change. A Next.js inbox app lets the team follow conversations, pause the agent and reply by hand. In the final pilot phase with beta testers. Private repos.
 
-**RobotM-BR Website**
+**[RobotM-BR Website](https://www.robotm.com.br)**
 B2B lead generation site for the authorized Robotmaster distributor in Brazil. Built for search intent from the ground up: semantic HTML, JSON-LD schema, sitemap, localized copy in Portuguese and Spanish. Stack: Next.js App Router, Tailwind, shadcn/ui, Sanity.io, deployed on Vercel.
 
 ### Archived
